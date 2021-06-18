@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b560153-2609-47df-882f-9c1086bde52b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Python/JUNGOL/182.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/JUNGOL/data/wow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/JUNGOL/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/JUNGOL/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/JUNGOL/palindrome2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/MyStudy/210604RNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/MyStudy/images/rnn/forecast_ahead_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/MyStudy/images/rnn/time_series_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/14주차 따라하기.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/과제.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/기계학습11주차실습자료.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/기계학습_12주차_실습_자료.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/기계학습_13주차_실습_자료.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/기계학습_14주차_실습_자료.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/기계학습_과제_서지희.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/기계학습/뉴뉴.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/210607파하나로.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/210607파하나로함수수정.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/210607파하나로함수수정2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/210607파하나로함수수정3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/EDA_Go.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/GarlicDataLoad.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/LSTM 해보기2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/LSTM 해보기3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/LSTM 해보기4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/Gonion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/average.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/bad.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/check.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/good.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/test1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/test2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/test3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/test_Gonion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/test_onion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/test_weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/testdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/testdata2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/data_load.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/load_Gonion.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/lstm 따라하기2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/lstm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/lstm따라하기.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/test_Go.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/test_load.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/.ipynb_checkpoints/data_modeling_서지희-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/.ipynb_checkpoints/data_preprocessing_서지희-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/.ipynb_checkpoints/data_setting_서지희-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/Gonion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/average.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/bad.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/best.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/check.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/good.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/testdata2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data_modeling_서지희.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data_preprocessing_서지희.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data_setting_서지희.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/대파가격예측_서지희/대파가격예측_서지희.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/상돌려보자.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Project/중돌려보자.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Regression_ex.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Report10_weather_서지희.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/Report10_weather_서지희.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/[25]bigdata_RNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/[26]bigdata_RNN_time_series_multiStep.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/[7]bigdata_pandas1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/[8]bigdata_pandas2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/data/OBS_ASOS_DD_20210528165736.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/data/OBS_ASOS_DD_20210528170559.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/homework/Report8_XOR_서지희.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/homework/Report9_clustering_서지희.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/weather202009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/수업/데이터마이닝/서울시 지하철 분석_서지희.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1012/html5-book/02/index-text-result.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1012/html5-book/02/index-text-result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1012/html5-book/03/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1012/html5-book/03/link.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1u49UZHojklBdz7ToXhBbqZMvr4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b560153-2609-47df-882f-9c1086bde52b" name="Default Changelist" comment="" />
+      <created>1623914010747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623914010747</updated>
+      <workItem from="1623914011989" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
