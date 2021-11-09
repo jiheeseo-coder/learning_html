@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f92a8d4-eb9a-44e5-9e24-edf3b94508d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/나혼자실습/wekaGaNG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/대파가격_data.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/itertor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/1330.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/14861.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/2753.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/2884.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/9498.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/10871.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/10950.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/11021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/11022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/15552.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/2438.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/2739.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/2741.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/8393.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/04_while문/1_10952.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/04_while문/2_10951.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/04_while문/3_1110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/1_10818.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/2_2562.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/3_2577.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/4_3052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/5_1546.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/6_8958.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/7_4344.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/1_15596.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/2_4673.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/분산처리.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../210727_gradle_test1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exacm2/src/main/java/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exacm2/src/main/java/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exacm2/src/main/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam1/src/main/java/Exam/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trident/src/main/java/Trident/DiagnosisEventSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trident/src/main/java/Trident/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/ReportBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/SentenceSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/SplitBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/Wct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/WordCountBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/ReportBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/SentenceSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/SplitBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/WordCountBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/WordCountTopology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data_setting_서지희.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data_setting_서지희.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/1000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/1001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10171.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10171.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10172.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10172.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10430.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10430.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10718.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10718.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10869.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10869.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10998.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10998.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/2588.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/2588.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1vsdLHeh7WwG7GaRpXmr1JnHol8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f92a8d4-eb9a-44e5-9e24-edf3b94508d8" name="Default Changelist" comment="" />
+      <created>1627354674179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627354674179</updated>
+      <workItem from="1627354675470" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

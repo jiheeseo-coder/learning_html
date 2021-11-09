@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a340015-435f-418a-8710-77e7adf9c3a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../JAVA/나혼자실습/wekaGaNG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data/대파가격_data.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/수업/분산및병렬프로그래밍/conurrentCalculation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/수업/분산및병렬프로그래밍/sequentialCalculation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/itertor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/pagerank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/1330.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/14861.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/2753.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/2884.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/02_if문/9498.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/10871.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/10950.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/11021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/11022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/15552.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/2438.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/2739.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/2741.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/03_for문/8393.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/04_while문/1_10952.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/04_while문/2_10951.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/04_while문/3_1110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/1_10818.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/2_2562.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/3_2577.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/4_3052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/5_1546.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/6_8958.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/05_1차원 배열/7_4344.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/1_15596.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/2_4673.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/3_1065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/06_함수/hey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/07_문자열/01_11654.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/07_문자열/02_11720.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/07_문자열/03_10809.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/07_문자열/04_2675.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/07_문자열/05_1157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/07_문자열/buffer_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/분산처리.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter01/Chapter1 (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter01/word-count.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter03/sensor-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter06/ai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter07/analytics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter07/financial-analytics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter08/nlp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter09/advertising (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8294OS_Code/Chapter09/advertising.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TridentExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/05_example/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/05_example/src/main/java/GraphTupleProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/05_example/src/main/java/JsonProjectFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/05_example/src/main/java/TitanGraphFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/05_example/src/main/java/TweetGraphTupleProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/05_example/src/main/java/TwitterStatusListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/05_example/src/main/resources/twitter4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/Count2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/CountAgg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/MyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/UpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_1/src/main/java/TestPackage/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_gradle_test1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_1/src/main/java/TestPackage/TridentMinMaxOfVehiclesTopology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_2/src/main/java/start/DoubleAndTripleBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210727_maven_2/src/main/java/start/TridentWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210804_m_1/210804_m_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210804_m_2/210804_m_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210804_m_2/src/main/java/TridentWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/210805_m_1/src/main/java/TWC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_esotericsoftware_kryo_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_esotericsoftware_reflectasm_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_4_41_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_twitter_carbonite_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__com_twitter_chill_java_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__commons_cli_commons_cli_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_storm_storm_client_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_storm_storm_clojure_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_storm_storm_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_storm_storm_server_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_storm_storm_shaded_deps_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_clojure_clojure_1_3_0_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_clojure_tools_logging_0_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_14_v20181114.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_jline_jline_3_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Chapter03/sensor-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Exacm2/src/main/java/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Exacm2/src/main/java/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Exacm2/src/main/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/Exam1/src/main/java/Exam/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/src/main/java/KafkaAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/SampleApp/src/main/java/RogueApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/CombinerReducer/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/FunctionFilter/CityAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/FunctionFilter/DiseaseFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/FunctionFilter/DispatchAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/FunctionFilter/HourAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/FunctionFilter/OutbreakDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/Spout/DefaultCoordinator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/Spout/DiagnosisEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/Spout/DiagnosisEventEmitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/Spout/DiagnosisEventSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/State/OutbreakTrendBackingMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/State/OutbreakTrendFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/State/OutbreakTrendState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/example/src/main/java/example/Topology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/7.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/7.0/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/7.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/7.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/7.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Trident_dir/untitled21312312/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trident/src/main/java/Trident/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trident/src/main/java/Trident/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/ReportBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/SentenceSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/SplitBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/Wct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wc/src/main/java/jhwc/WordCountBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../window/src/main/java/RandomSentenceSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../window/src/main/java/WindowedWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam4/src/main/java/WE_SP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam5/src/main/java/WE_TP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam6/src/main/java/AggregateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam6/src/main/java/RandomIntegerSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/src/main/java/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/src/main/java/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam7_annotation/src/main/java/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/ReportBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/SentenceSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/SplitBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/WordCountBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wordcount/src/main/java/wordcount/WordCountTopology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/딥러닝/2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/딥러닝/2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data_setting_서지희.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/수업/데이터마이닝/Project/대파가격예측_서지희/data_setting_서지희.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/1000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/1001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10171.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10171.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10172.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10172.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10430.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10430.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10718.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10718.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10869.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10869.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/10998.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/10998.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Python/알고리즘/백준/입출력과 사칙연산/2588.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Python/알고리즘/백준/01_입출력과 사칙연산/2588.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1xl0INlUzirTEk1C094gVjpJVZe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a340015-435f-418a-8710-77e7adf9c3a6" name="Default Changelist" comment="" />
+      <created>1630914288705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630914288705</updated>
+      <workItem from="1630914289930" duration="4272000" />
+      <workItem from="1630977542244" duration="881000" />
+      <workItem from="1630978440739" duration="5594000" />
+      <workItem from="1630993822872" duration="784000" />
+      <workItem from="1631064040575" duration="16000" />
+      <workItem from="1631064071767" duration="6089000" />
+      <workItem from="1631149996525" duration="4394000" />
+      <workItem from="1631237771106" duration="1193000" />
+      <workItem from="1631595741030" duration="3120000" />
+      <workItem from="1631599269341" duration="1461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
